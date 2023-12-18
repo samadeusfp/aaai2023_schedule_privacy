@@ -34,7 +34,8 @@ https://doi.org/10.1609/aaai.v37i10.26412
 
 ## How to run our code
 We provide an example on how to run our code here:
-https://github.com/samadeusfp/aaai2023_schedule_privacy/blob/main/privacy-scheduling-tools/sample/sample_privacy_loss.py
+[sample/sample_privacy_loss.py](https://github.com/samadeusfp/aaai2023_schedule_privacy/blob/main/sample/sample_privacy_loss.py)
+
   
 ## Find out more about our research
 If you wamt find out more about our research, you can visit the following website: 
